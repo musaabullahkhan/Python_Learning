@@ -9,8 +9,9 @@ c = "Harry" # c is a string
 d = True # d is a boolean(Contains only true or false)
 e = None #e is none(used to assume it have no value)
 # Input
-a = input("Enter Number: 1")
-b = input("Enter Number: 2")
+a = int(input("Enter Number: 1"))
+b = int(input("Enter Number: 2"))
 
 print("Number entered a is: ", a)
 print("Number entered b is: " , b)    
+print("a and b added:" , a+b)
