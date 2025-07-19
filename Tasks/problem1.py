@@ -25,5 +25,5 @@ Twinkle, twinkle, little star.''')
 # First Problem
 import pyttsx3
 engine = pyttsx3.init()
-engine.say("Hafsa is a great girl who watches screen 24/7")
+engine.say("Hey I am learning programming language by myself")
 engine.runAndWait()
